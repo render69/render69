@@ -11,16 +11,19 @@
 </p>
 <div>
   <h2>I use:</h2>
-	<img src="https://github.com/RendeR66/RendeR66/blob/main/sass-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/RendeR66/RendeR66/blob/main/react-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/RendeR66/RendeR66/blob/main/django-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/RendeR66/RendeR66/blob/main/postgresql-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/RendeR66/RendeR66/blob/main/nginx-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/RendeR66/RendeR66/blob/main/firebase-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/RendeR66/RendeR66/blob/main/dotnetcore-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/RendeR66/RendeR66/blob/main/cplusplus-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/RendeR66/RendeR66/blob/main/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/RendeR66/RendeR66/blob/main/archlinux-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/render69/render69/blob/main/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/render69/render69/blob/main/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/render69/render69/blob/main/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/render69/render69/blob/main/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/render69/render69/blob/main/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/render69/render69/blob/main/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/render69/render69/blob/main/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/render69/render69/blob/main/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/render69/render69/blob/main/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/render69/render69/blob/main/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/render69/render69/blob/main/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/render69/render69/blob/main/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
+
 </div>
 
 <!-- BLOG-POST-LIST:END -->
