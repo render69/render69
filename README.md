@@ -23,7 +23,12 @@
 	<img src="https://github.com/render69/render69/blob/main/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/render69/render69/blob/main/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/render69/render69/blob/main/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
+</div>
+<div>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=render69&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=render69&layout=compact&show_icons=true&theme=radical)
 </div>
 
 <!-- BLOG-POST-LIST:END -->
