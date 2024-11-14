@@ -20,7 +20,7 @@
 	<img src="https://github.com/render69/render69/blob/main/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/render69/render69/blob/main/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/render69/render69/blob/main/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/render69/render69/blob/main/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<!-- 	<img src="https://github.com/render69/render69/blob/main/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
 	<img src="https://github.com/render69/render69/blob/main/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/render69/render69/blob/main/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
 </div>
