@@ -35,5 +35,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=render69&layout=compact&show_icons=true&theme=radical)
 </div>
 </div>
-
+Не верю defaults, я строю свой путь,
+Где нет GUI — там слышу суть.
+Arch — не система, а способ думать,
+править, искать и себя вернуть.
 <!-- BLOG-POST-LIST:END -->
