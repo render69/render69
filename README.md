@@ -16,7 +16,7 @@
 </h3>
 <h2 align="left">🧠 Tech Stack</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,qt,js,ts,nodejs,postgresql,linux,nginx,bash,next,arch" />
+  <img src="https://skillicons.dev/icons?i=cpp,qt,go,ts,nodejs,postgresql,linux,nginx,bash,next,arch" />
 </p>
 
 <h2 align="left">🚀 Featured Projects</h2>
