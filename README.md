@@ -9,8 +9,11 @@
 	<img src="https://img.shields.io/github/stars/render69?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
 	<a href="https://github.com/sponsors/render69"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a> •
 	<a href="https://wakatime.com/@f6aa4824-412b-4946-b8d8-3df28c51cf20"><img src="https://wakatime.com/badge/user/f6aa4824-412b-4946-b8d8-3df28c51cf20.svg" alt="Total time coded since Jul 8 2023" /></a>
+	
 </p>
-
+<p align="center">
+	<img src="https://www.codewars.com/users/RendeR66/badges/small" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/>
+</p>
 <h3 align="center">
   C++ / Qt / QML & TypeScript Developer · Telegram Bot Creator · Linux Enthusiast
 </h3>
