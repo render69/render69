@@ -32,10 +32,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=render69&theme=radical" alt="streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=render69&show_icons=true&theme=radical" alt="stats"/>
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=render69&layout=compact&show_icons=true&theme=radical)
 </div>
 </div>
 <!-- BLOG-POST-LIST:END -->
